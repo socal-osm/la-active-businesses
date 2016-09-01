@@ -5,6 +5,7 @@ A repo to import L.A.'s active businesses into OpenStreetMap
 - [L.A. County's address point database](http://egis3.lacounty.gov/dataportal/2012/06/19/la-county-address-points/) offers more specific geocoding by lat/lon than the 
 - [L.A. City listing of active businesses](https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua) which has all the pertinent information for the business
 - [Census geocoder](http://geocoding.geo.census.gov) which could be helpful (but possibly not help get node close to building)
+- [L.A. city addresses](https://data.lacity.org/A-Well-Run-City/Addresses-in-the-City-of-Los-Angeles/4ca8-mxuh) not sure how they differ from other sets
 
 ## Next steps
 1. Test data
